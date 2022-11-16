@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+dask-worker-space/
+npp/
+
+
 __pycache__/
 *.py[cod]
 *$py.class
